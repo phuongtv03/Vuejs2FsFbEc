@@ -1,1 +1,1 @@
-# Vuejs2FsFbEc
+# Vuejs Full-Stack (AWS / Firebase) Build E-Commerce Website
